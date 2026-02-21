@@ -40,6 +40,7 @@ https://eduwp.rzhevskyrobotics.com/
 -   https://eduwp.rzhevskyrobotics.com/login/
 -   https://eduwp.rzhevskyrobotics.com/wordpress/
 -   https://eduwp.rzhevskyrobotics.com/render/
+-   https://eduwp.rzhevskyrobotics.com/wordpress/wp-json/wp/v2/posts/1/
 
 ------------------------------------------------------------------------
 
